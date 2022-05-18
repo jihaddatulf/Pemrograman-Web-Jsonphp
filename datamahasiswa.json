@@ -1,0 +1,46 @@
+[
+  {
+    "nama": "Jihad Datul Fadilah",
+    "nim": "20050974070",
+    "no_telepon": "0820050974070",
+    "hobi": ["Memasak", "Menggambar", "Menari"],
+    "riwayat_pendidikan": {
+      "SD": "SD Muhamadiyah 2 Tulangan",
+      "SMP": "SMPN 2 Krembung",
+      "SMA": "SMAN 1 Tarik"
+    }
+  },
+  {
+    "nama": "Jeon Jungkook",
+    "nim": "20050974097",
+    "no_telepon": "08320050974097",
+    "hobi": ["Menari", "Menggambar", "Menyanyi"],
+    "riwayat_pendidikan": {
+      "SD": "SD Muhamadiyah 2 Tulangan",
+      "SMP": "SMPN 2 Krembung",
+      "SMA": "SMAN 1 Tarik"
+    }
+  },
+  {
+    "nama": "Kim Taehyung",
+    "nim": "20050974095",
+    "no_telepon": "08320050974095",
+    "hobi": ["Menari", "Bermain Alat Musik", "Menyanyi"],
+    "riwayat_pendidikan": {
+      "SD": "SD Muhamadiyah 2 Tulangan",
+      "SMP": "SMPN 2 Krembung",
+      "SMA": "SMAN 1 Tarik"
+    }
+  },
+  {
+    "nama": "Kim Namjoon",
+    "nim": "20050974094",
+    "no_telepon": "08320050974094",
+    "hobi": ["Membaca", "Membuat Lagu", "Menyanyi"],
+    "riwayat_pendidikan": {
+      "SD": "SD Muhamadiyah 2 Tulangan",
+      "SMP": "SMPN 2 Krembung",
+      "SMA": "SMAN 1 Tarik"
+    }
+  }
+]
